@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "name": "Smartphone XYZ",
+      "category": "electronics",
+      "price": "R$ 1.999,00",
+      "image": "https://via.placeholder.com/150",
+      "affiliateLink": "INSIRA_LINK_AFFILIADO_AQUI",
+      "featured": true
+    },
+    {
+      "name": "Sofá 3 Lugares",
+      "category": "home",
+      "price": "R$ 1.299,00",
+      "image": "https://via.placeholder.com/150",
+      "affiliateLink": "INSIRA_LINK_AFFILIADO_AQUI",
+      "featured": true
+    }
+    // Adicione mais produtos conforme necessário
+  ]
+}
